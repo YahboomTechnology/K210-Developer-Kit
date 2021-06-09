@@ -49,7 +49,7 @@ void tft_hard_init(void)
     init_rst();
     spi_init(SPI_CHANNEL, SPI_WORK_MODE_0, SPI_FF_OCTAL, 8, 0);
     init_rst();
-    spi_set_clk_rate(SPI_CHANNEL, 18000000);
+    spi_set_clk_rate(SPI_CHANNEL, 10000000);
 }
 
 void tft_write_command(uint8_t cmd)
