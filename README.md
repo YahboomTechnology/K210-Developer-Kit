@@ -22,8 +22,6 @@ Al-Motion K210 Developer Kit is a small full-featured development board kit deve
 * A lot of free tutorial materials are available for beginners.
 
 # Required Best Buy Links
-[By on Amazon](https://www.amazon.com/-/zh/dp/B08K6ZVVMH?ref_=ast_sto_dp)
-
 [By on Yahboom website](https://category.yahboom.net/products/k210-developer-kit)
 
 # Please Contact Us
